@@ -1,6 +1,7 @@
 @import url("./splendor.css");
 
+html {font-size: 87.5%;} /*14px*/
+
 html,body {
-  font-family: "Inter", sans-serif !important;
-  font-size:14px;
+  font-family: "Inter", sans-serif !important;  
 }
